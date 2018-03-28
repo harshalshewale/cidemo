@@ -10,5 +10,11 @@ public class CIDemoTest {
 		System.out.println("Hello SeleniumPoint");
 	}
 	
+	@Test
+	public void printWelcome()
+	{
+		System.out.println("Welcome TO Selenium Point");
+	}
+	
 	
 }
